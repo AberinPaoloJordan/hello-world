@@ -3,4 +3,4 @@ my repository
 
 Hello people!
 
-I like learn new stuff everyday
+I like learning new stuff everyday
